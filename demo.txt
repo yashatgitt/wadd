@@ -6,7 +6,7 @@ git config --global user.name "Your Name"
 git config --global user.email "youremail@example.com"
 cd /path/to/your/folder
 git init
-git remote add origin https://github.com/username/repository.git
+git remote add origin https://github.com/yashatgitt/wadd
 git add filename
 git add .
 git commit -m "Add my file"
